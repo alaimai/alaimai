@@ -34,7 +34,7 @@ I'm a Husband, Father, Full-Stack Developer!
 
 ## Projects in Dev Academy:
 
-see pinned repositories
+please refer to pinned repositories
 <!-- Links (to be replaced with actual URLs) -->
 [website]: #
 
