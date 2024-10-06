@@ -4,10 +4,10 @@ I'm a Husband, Father, Full-Stack Developer!
 
 ## About Me
 
-- 🏗️ I have completed Level 6 Applied Software Development in Dev Academy Aotearoa in 2024 🥳
-- 🧠 I'm currently working on my personal project and building my strong portfolio 💪😊
-- 👩🏻‍💻 I'm also learning other languages or frameworks I am interesting in 
-- ⛷️ Fun fact: I love skiing, espacially with my kids
+- 🎓 Completed Level 6 Applied Software Development at Dev Academy Aotearoa in 2024
+- 💼 Currently developing a personal project to strengthen my portfolio
+- 🚀 Expanding my skill set by learning new programming languages and frameworks
+- ⛷️ Passionate about skiing, especially enjoying family ski trips with my children
 
 ## Connect with me:
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
