@@ -6,11 +6,10 @@ I'm a Husband, Father, Full-Stack Developer!
 
 - 🏗️ I have completed Level 6 Applied Software Development in Dev Academy Aotearoa in 2024 🥳
 - 🧠 I'm currently working on my personal project and building my strong portfolio 💪😊
-- 👩🏻‍💻 I'm also learning other languages or framework I am interesting in 
+- 👩🏻‍💻 I'm also learning other languages or frameworks I am interesting in 
 - ⛷️ Fun fact: I love skiing, espacially with my kids
 
 ## Connect with me:
-
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
