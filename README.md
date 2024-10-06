@@ -32,7 +32,7 @@ I'm a Husband, Father, Full-Stack Developer!
 <!-- Links (to be replaced with actual URLs) -->
 [website]: #
 
-[linkedin]: [#](https://www.linkedin.com/in/lei-zheng-full-stack-dev/)
+[linkedin]: https://www.linkedin.com/in/lei-zheng-full-stack-dev/
 
 [vscode]: #
 [html5]: #
